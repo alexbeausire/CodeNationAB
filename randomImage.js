@@ -1,6 +1,7 @@
 console.log("Hello")
 var Num = 1
 var myImages = new Array(
+
     "images/banoffe-pies-poster.jpg",
     "images/2_orig.jpg",
     "images/dj-sports---ck-a3_2x.jpg",
@@ -45,7 +46,6 @@ var myImages = new Array(
     "images/OpeningParty1202Artboard.png",
     "images/willow02.png",
     "images/image1.png")
-
 
     var randomNum = Math.floor(Math.random() * (myImages.length));
 
